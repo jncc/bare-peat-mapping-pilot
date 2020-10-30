@@ -1,4 +1,4 @@
-[<img src="JNCCLogo.png" style="width:400px;">](https://jncc.gov.uk/)
+[<img src="JNCCLogo.png" width=400px >](https://jncc.gov.uk/)
 
 
 <p> 
