@@ -1,6 +1,11 @@
-[<img src="JNCCLogo.png">](https://jncc.gov.uk/)
+[<img src="JNCCLogo.png" style="width:400px;">](https://jncc.gov.uk/)
 
-<p> # bare-peat-mapping-pilot
+
+<p> 
+
+<p>
+
+# bare-peat-mapping-pilot
 
 
 This R code was developed for a [JNCC pilot study](https://hub.jncc.gov.uk/assets/958df51f-2e7c-4d2b-92f0-eac84c2a86af), focussing on the use of earth observation data in monitoring peatland condition. This built upon previous methodology funded by the EO Centre of Excellence and Scottish Government, and carried out by the UK Centre for Ecology & Hydrology and the James Hutton institute. The code utilises a number of functions in the preparation of the imagery, and modelling and evaluation processes used, trialling both classification and regression methodologies.
